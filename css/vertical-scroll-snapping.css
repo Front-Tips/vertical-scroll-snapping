@@ -1,0 +1,16 @@
+@import "./reset.css";
+
+html,
+body {
+  overflow: hidden;
+}
+
+.sections {
+  height: 100vh;
+  overflow-y: scroll;
+  scroll-snap-type: y mandatory;
+}
+
+.section {
+  scroll-snap-align: start;
+}
