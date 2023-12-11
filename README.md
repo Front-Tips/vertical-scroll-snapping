@@ -4,4 +4,4 @@ Using `scroll-snap-type` and `scroll-snap-align` to achieve a vertical scroll sn
 
 ## Tip Links
 
-[Vertical Scroll Snapping](https://front.tips/vertical-scroll-snapping)
+[Vertical Scroll Snapping](https://front.tips/vertical-scroll-snapping/#tip-links)
